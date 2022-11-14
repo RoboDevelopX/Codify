@@ -5,8 +5,6 @@ Codify stands for a smart intelligent system that can code like a human being fo
 <br>
 <img src ="Codify-Demo-GIF.gif">
 
-### [Click here](https://dx.doi.org/10.2139/ssrn.4111759) to read our paper, published on **SSRN** 
-
 
 ## [Dataset Stats]()
 
@@ -58,9 +56,3 @@ cd client/
 ```bash
 npm start
 ```
-
-## Credits
-
-* NER Annotator -  https://github.com/tecoholic/ner-annotator
-* `spacy` - https://github.com/explosion/spaCy
-* Custom NER for Extracting Disease Entities Blog - https://medium.com/analytics-vidhya/custom-ner-for-extracting-disease-entities-c620aca2e1bb
